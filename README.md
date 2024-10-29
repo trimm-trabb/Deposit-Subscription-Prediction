@@ -1,4 +1,4 @@
-# ML-Project-Deposit-Subscription-Prediction
+# Deposit Subscription Prediction
 
 ## Project Description
 
